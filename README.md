@@ -8,13 +8,13 @@ A fast-food chain plans to add a new item to its menu. However, they are still u
 Evaluate A/B testing results and decide which marketing strategy works the best.
 
 # Columns
-MarketID: unique identifier for market
-MarketSize: size of market area by sales
-LocationID: unique identifier for store location
-AgeOfStore: age of store in years
-Promotion: one of three promotions that were tested
-week: one of four weeks when the promotions were run
-SalesInThousands: sales amount for a specific LocationID, Promotion, and week
+* MarketID: unique identifier for market
+* MarketSize: size of market area by sales
+* LocationID: unique identifier for store location
+* AgeOfStore: age of store in years
+* Promotion: one of three promotions that were tested
+* week: one of four weeks when the promotions were run
+* SalesInThousands: sales amount for a specific LocationID, Promotion, and week
 
 
 The data is taken from Kaggle 
